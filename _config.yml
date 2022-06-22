@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Välj oss för dina barnomsorgsbehov! Vi bedriver idag nio förskolor och en öppen förskola i Uppsala. Vi har även samarbete med ett 80-tal dagbarnvårdare.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-#url: ''
+url: 'https://rapdv.github.io'
 
 github:
   username: rapdv             # change to your github username
