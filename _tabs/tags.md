@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tags
+title: Taggar
 icon: fas fa-tag
-order: 2
+order: 7
 ---

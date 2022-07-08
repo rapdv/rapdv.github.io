@@ -1,0 +1,83 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Inlägg
+  category: Kategori
+  tag: Tagg
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Hem
+  categories: Kategorier
+  tags: Taggar
+  archives: Arkiv
+  about: Om
+
+# the text displayed in the search bar & search results
+search:
+  hint: sök
+  cancel: Avbryt
+  no_results: Oj! Inga resultat.
+
+panel:
+  lastmod: Nyligen Uppdaterade
+  trending_tags: Trendande Taggar
+  toc: Innehåll
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Detta inlägg är licensierat under :LICENSE_NAME av författaren.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Vissa rättigheter reserverade.
+  verbose: >-
+    Om inte annat anges är blogginläggen på denna webbplats licensierade
+    under Creative Commons Attribution 4.0 International (CC BY 4.0)-licens av författaren.
+
+meta: Drivs av :PLATFORM med :THEME temat.
+
+not_found:
+  statment: Ursäkta, vi har tappat bort webbadressen eller så pekar den på något som inte finns.
+
+notification:
+  update_found: En ny version av innehållet är tillgänglig.
+  update: Uppdatera
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Av
+  posted: Upplagd
+  updated: Uppdaterad
+  words: ord
+  pageview_measure: visningar
+  read_time:
+    unit: min
+    prompt: läsning
+  relate_posts: Läs mer
+  share: Dela
+  button:
+    next: Nyare
+    previous: Äldre
+    copy_code:
+      succeed: Kopierad!
+    share_link:
+      title: Kopiera länk
+      succeed: Länk kopierad!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Fäst
+
+# categories page
+categories:
+  category_measure:
+    singular: kategori
+    plural: kategorier
+  post_measure:
+    singular: inlägg
+    plural: inlägg
