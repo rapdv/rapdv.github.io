@@ -1,12 +1,8 @@
 ---
-id: 7384
 title: 'Artikel om mandelblommorna'
 date: '2021-05-24T13:26:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=7384'
-permalink: /artikel-om-mandelblommorna
-image: /wp-content/uploads/2021/07/Skärmavbild-2021-05-24-kl.-12.01.00.png
 categories:
     - Aktuellt
 ---

@@ -1,14 +1,8 @@
 ---
-id: 5515
 title: 'Villa Villervalla i Hummelsta'
 date: '2020-09-25T09:59:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=5515'
-permalink: /villa-villervalla-i-hummelsta
-cmplz_hide_cookiebanner:
-    - ''
-image: /wp-content/uploads/2020/10/Villa-Villervalla-familjedaghem-hittasida-1.jpg
 categories:
     - Aktuellt
 ---

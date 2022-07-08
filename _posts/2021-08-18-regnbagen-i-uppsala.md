@@ -1,12 +1,8 @@
 ---
-id: 14223
 title: 'Regnbågen i Uppsala'
 date: '2021-08-18T12:42:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=14223'
-permalink: /regnbagen-i-uppsala
-image: /wp-content/uploads/2021/07/mother-daughter-drawing-1130x754-1-938x626.jpg
 categories:
     - Aktuellt
 ---

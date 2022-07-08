@@ -1,14 +1,8 @@
 ---
-id: 5539
 title: 'Skuttungarna i Uppsala'
 date: '2020-10-06T13:21:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=5539'
-permalink: /skuttungarna-i-uppsala
-cmplz_hide_cookiebanner:
-    - ''
-image: /wp-content/uploads/2020/10/9037-2048x1365-1.jpg
 categories:
     - Aktuellt
 ---

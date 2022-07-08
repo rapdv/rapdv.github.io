@@ -1,12 +1,8 @@
 ---
-id: 23486
 title: 'Kontoret stänger tidigt idag'
 date: '2022-02-25T11:53:00+01:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=23486'
-permalink: /kontoret-stanger-tidigt-idag
-image: /wp-content/uploads/2022/01/adorable-little-girl-wearing-warm-coat-outdoors-on-2021-08-27-09-41-00-utc-938x625.jpg
 categories:
     - Aktuellt
 ---

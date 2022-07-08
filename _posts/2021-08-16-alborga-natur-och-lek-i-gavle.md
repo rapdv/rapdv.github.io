@@ -1,12 +1,8 @@
 ---
-id: 14220
 title: 'Alborga natur och lek i Gävle'
 date: '2021-08-16T12:41:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=14220'
-permalink: /alborga-natur-och-lek-i-gavle
-image: /wp-content/uploads/2021/06/289229-P6O0BN-400-1130x754-1-938x626.jpg
 categories:
     - Aktuellt
 ---

@@ -1,14 +1,8 @@
 ---
-id: 5751
 title: 'Gnistan i Uppsala'
 date: '2021-03-15T13:24:00+01:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=5751'
-permalink: /gnistan-i-uppsala
-cmplz_hide_cookiebanner:
-    - ''
-image: /wp-content/uploads/2021/03/the-hands-of-the-child-who-smeared-scaled-1.jpg
 categories:
     - Aktuellt
 ---

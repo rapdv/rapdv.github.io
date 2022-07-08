@@ -1,12 +1,8 @@
 ---
-id: 5393
 title: 'Busfröna i Borlänge'
 date: '2020-08-05T11:06:33+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=5393'
-permalink: /busfrona-i-borlange
-image: /wp-content/uploads/2020/08/children-4624899_1920-1-768x512-1.jpg
 categories:
     - Aktuellt
 ---

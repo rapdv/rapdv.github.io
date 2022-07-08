@@ -1,12 +1,8 @@
 ---
-id: 7389
 title: 'Marias Busungar i Gävle'
 date: '2021-06-17T13:27:00+02:00'
 author: 'Erik Hammargren'
 layout: post
-guid: 'https://www.cforetaget.se/?p=7389'
-permalink: /marias-busungar-i-gavle
-image: /wp-content/uploads/2021/06/children-playing-grass-1130x753-1-938x625.jpg
 categories:
     - Aktuellt
 ---
