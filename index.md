@@ -6,7 +6,7 @@ order: 1
 toc: true
 ---
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together.webp "Barn som målar")
+![Barn som målar](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together.webp)
 
 # C Företaget Barnomsorg
 
@@ -16,7 +16,7 @@ Välj oss för dina barnomsorgsbehov! Vi bedriver idag nio förskolor och en öp
 
 ## Våra verksamheter
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy.webp "Flicka som äter melon")
+![Flicka som äter melon](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy.webp)
 
 ### Dagbarnvårdare
 
@@ -24,7 +24,7 @@ Skräddarsy ditt egna drömjobb inom barnomsorgen! Vill du driva barnomsorg med 
 
 [www.dagbarnvårdare.se](https://xn--dagbarnvrdare-wfb.se/)
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp "Pojke som leker med klossar")
+![Pojke som leker med klossar](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)
 
 ### Förskolor
 
@@ -32,7 +32,7 @@ Vi erbjuder förskolor som drivs av engagerade pedagoger som värnar om barnens 
 
 [www.cf-forskola.se](https://cf-forskola.se/)
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp "Barn som leker i sandlåda")
+![Barn som leker i sandlåda](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp)
 
 ### Cmart förskola
 
@@ -40,7 +40,7 @@ Tillsammans med oss kan förskollärare starta upp och drifta barnomsorg. Vi bid
 
 [www.cmartforskola.se](https://cmartforskola.se/)
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-support_revised-1.svg)](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-support_revised-1.svg "Illustration av vad Cmart Suppoort är")
+![Illustration av vad Cmart Suppoort är](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-support_revised-1.svg)
 
 ### Cmart Support
 
@@ -50,7 +50,7 @@ Ett inköpskoncept helt &amp; hållet utformat för de behov av produkter &amp; 
 
 [www.cmartsupport.se](https://cmartsupport.se/)
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/Uppsala_Cathedral_in_February.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/Uppsala_Cathedral_in_February.webp "Uppsala domkyrka i februari månad")
+![Uppsala domkyrka i februari månad](https://www.cforetaget.se/wp-content/uploads/2022/02/Uppsala_Cathedral_in_February.webp)
 
 ## Om oss
 
@@ -63,7 +63,7 @@ Ett inköpskoncept helt &amp; hållet utformat för de behov av produkter &amp; 
 - Kompetens  
     Vi har ett kompetent arbetslag med förskollärare, ekonomer, socionomer, beteendevetare och IT-tekniker.
 
-![](https://www.cforetaget.se/wp-content/uploads/2022/02/questions.svg "Ett öppet kuvert med ett @ tecken i")
+![Ett öppet kuvert med ett @ tecken i](https://www.cforetaget.se/wp-content/uploads/2022/02/questions.svg)
 
 
 ## Kontakta oss

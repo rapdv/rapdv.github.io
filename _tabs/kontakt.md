@@ -65,7 +65,7 @@ E-post: <annika.hallin@cforetaget.se>
   </div>
   <div class="column_2">
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy-1024x683.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy.webp) 
+![Flicka som äter melon](https://www.cforetaget.se/wp-content/uploads/2022/02/girl-846357_1920-copy.webp)
   </div>  
 </div>
 
@@ -121,7 +121,7 @@ E-post: <ulrica.stromberg@cforetaget.se>
   </div>
   <div class="column_2">
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)
+![Pojke som leker med klossar](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)
  
   </div>  
 </div>
@@ -138,7 +138,7 @@ E-post: <ulrica.stromberg@cforetaget.se>
   </div>
   <div class="column_2">
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola-1024x683.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp)
+![Barn som leker i sandlåda](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp)
  
   </div>  
 </div>
@@ -160,7 +160,7 @@ C Företaget, C Företaget Dagbarnvårdare, C Resurs
   </div>
   <div class="column_2">
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together-1024x681.webp)](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together.webp)
+![Barn som målar](https://www.cforetaget.se/wp-content/uploads/2022/02/close-up-kids-painting-with-brushes-together.webp)
  
   </div>  
 </div>
@@ -177,7 +177,7 @@ Johan Hallin, Erik Hammargren
   </div>
   <div class="column_2">
 
-[![](https://www.cforetaget.se/wp-content/uploads/2022/02/mia-baker-klRB1BB9pV8-unsplash-1024x683.jpg)](https://www.cforetaget.se/wp-content/uploads/2022/02/mia-baker-klRB1BB9pV8-unsplash-scaled.jpg)
+![a laptop on a desk](https://www.cforetaget.se/wp-content/uploads/2022/02/mia-baker-klRB1BB9pV8-unsplash-scaled.jpg)
  
   </div>  
 </div>
