@@ -186,7 +186,9 @@ Johan Hallin, Erik Hammargren
 
 {::options parse_block_html="false" /}
 
-[C Företaget](https://maps.google.com/?q=59.86137874577452,17.616559514000727&ll=59.86137874577452,17.616559514000727&z=15)
+## Besök oss
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3369.0993464778862!2d17.612911060834243!3d59.861122380498436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcb8b838e7861%3A0xae6b4513a9088058!2sGeijersgatan%2034%2C%20752%2026%20Uppsala!5e0!3m2!1ssv!2sse!4v1657269884702!5m2!1ssv!2sse" width="798" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Skicka ett meddelande
 
