@@ -780,8 +780,8 @@ $sidebar-display: "sidebar-display";
       visibility: visible;
     }
 
-    @for $i from 1 through ($tab-count + 1) {
-      $offset: $tab-count - $i +1;
+    @for $i from 1 through ($tab-count) {
+      $offset: $tab-count - $i;
       $top: -$offset * $tab-height + ($tab-height - $tab-cursor-height) / 2;
 
       @if $i < $tab-count {
