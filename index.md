@@ -22,7 +22,7 @@ Välj oss för dina barnomsorgsbehov! Vi bedriver idag nio förskolor och en öp
 
 Skräddarsy ditt egna drömjobb inom barnomsorgen! Vill du driva barnomsorg med inriktning på musik, Reggio Emilia, dans eller kanske Ur och Skur? Hos oss bestämmer du själv, samtidigt som du får tryggheten i vår plattform.
 
-[www.dagbarnvårdare.se](https://xn--dagbarnvrdare-wfb.se/)
+[www.dagbarnvårdare.se](https://xn--dagbarnvrdare-wfb.se/){:target="_blank"}
 
 ![Pojke som leker med klossar](https://www.cforetaget.se/wp-content/uploads/2022/02/little-boy-playing-home-scaled-1-768x512-1.webp)
 
@@ -30,7 +30,7 @@ Skräddarsy ditt egna drömjobb inom barnomsorgen! Vill du driva barnomsorg med 
 
 Vi erbjuder förskolor som drivs av engagerade pedagoger som värnar om barnens bästa. Den pedagogik vi förespråkar uppmuntrar alla barn att vara aktiva, delaktiga och ansvarstagande i ord och handling. Vill du ställa ditt barn i kö till någon av våra förskolor?
 
-[www.cf-forskola.se](https://cf-forskola.se/)
+[www.cf-forskola.se](https://cf-forskola.se/){:target="_blank"}
 
 ![Barn som leker i sandlåda](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-forskola.webp)
 
@@ -38,7 +38,7 @@ Vi erbjuder förskolor som drivs av engagerade pedagoger som värnar om barnens 
 
 Tillsammans med oss kan förskollärare starta upp och drifta barnomsorg. Vi bidrar med resurser och en lång och bred erfarenhet av företagande och barnomsorg. Du bidrar med ett brinnande intresse för barnomsorg och en vilja att forma förskolan utifrån dina pedagogiska ambitioner och mål.
 
-[www.cmartforskola.se](https://cmartforskola.se/)
+[www.cmartforskola.se](https://cmartforskola.se/){:target="_blank"}
 
 ![Illustration av vad Cmart Suppoort är](https://www.cforetaget.se/wp-content/uploads/2022/02/cmart-support_revised-1.svg)
 
@@ -48,7 +48,7 @@ INKÖPSORGANISATION FÖR FÖRSKOLOR
 
 Ett inköpskoncept helt &amp; hållet utformat för de behov av produkter &amp; tjänster som fristående förskolor har. Urval av leverantörer, produkter &amp; tjänster baseras på faktiska inköpsdata från åtta fristående förskolor i Uppsala under tre års tid!
 
-[www.cmartsupport.se](https://cmartsupport.se/)
+[www.cmartsupport.se](https://cmartsupport.se/){:target="_blank"}
 
 ![Uppsala domkyrka i februari månad](https://www.cforetaget.se/wp-content/uploads/2022/02/Uppsala_Cathedral_in_February.webp)
 

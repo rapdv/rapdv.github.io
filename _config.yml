@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.cforetaget.se/wp-content/uploads/2022/02/cropped-site-image.png
+avatar: assets/img/logga-r.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

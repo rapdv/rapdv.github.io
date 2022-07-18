@@ -105,16 +105,16 @@ E-post: <ulrica.stromberg@cforetaget.se>
 
 | FÖRSKOLA | TELEFON |
 | ----------- | ----------- |
-| [Bullerbyns förskola](http://www.bullerbyns-forskola.se/) | 070-059 22 27 |
-| [Ekeby förskola](http://ekebyforskola.se/) | 070-020 95 14 |
-| [Hasselbackens musikförskola](http://www.hasselbacken.nu/) | 070-735 79 50 |
-| [Humlans förskola](http://humlans.nu/) | 073-642 98 87 |
-| [Kaspers förskola](http://www.forskolankasper.se/) | 073-518 88 18 |
-| [Kåbo Ängars förskola](http://kaboangar.se/) | 070-243 83 04 |
-| [Förskolan Lingonblomman](http://lingonblommans.se/) | 070-091 60 47 |
-| [Pelle Svanslös öppna förskola](http://xn--svansls-f1a.se/) | 070-020 95 21 |
-| [Solskenets förskola](http://solskenetsforskola.se/) | 070-020 95 14 |
-| [Äventyrets förskola](https://aventyretsforskola.se/) | 076-275 82 14 |
+| [Bullerbyns förskola](http://www.bullerbyns-forskola.se/){:target="_blank"} | 070-059 22 27 |
+| [Ekeby förskola](http://ekebyforskola.se/){:target="_blank"} | 070-020 95 14 |
+| [Hasselbackens musikförskola](http://www.hasselbacken.nu/){:target="_blank"} | 070-735 79 50 |
+| [Humlans förskola](http://humlans.nu/){:target="_blank"} | 073-642 98 87 |
+| [Kaspers förskola](http://www.forskolankasper.se/){:target="_blank"} | 073-518 88 18 |
+| [Kåbo Ängars förskola](http://kaboangar.se/){:target="_blank"} | 070-243 83 04 |
+| [Förskolan Lingonblomman](http://lingonblommans.se/){:target="_blank"} | 070-091 60 47 |
+| [Pelle Svanslös öppna förskola](http://xn--svansls-f1a.se/){:target="_blank"} | 070-020 95 21 |
+| [Solskenets förskola](http://solskenetsforskola.se/){:target="_blank"} | 070-020 95 14 |
+| [Äventyrets förskola](https://aventyretsforskola.se/){:target="_blank"} | 076-275 82 14 |
 
 </div>
   

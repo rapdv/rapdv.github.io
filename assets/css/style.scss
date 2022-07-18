@@ -5,8 +5,32 @@
   If the number of TAB files has changed, the following variable is required.
   And it must be defined before `@import`.
 */
-$tab-count: {{ site.tabs | size | plus: 2 }}; // plus 1 for home tab
+$tab-count: {{ site.tabs | size | plus: 3 }}; // plus 2 for hem tab and nyheter tab
 
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+
+a[target="_blank"]{
+  background-image: url(../img/external-link-ltr-icon.svg?48e54);
+  background-position: center right;
+  background-repeat: no-repeat;
+  padding-right: 16px;
+}
+
+
+.sidebar-bottom a[target="_blank"]{
+  background-image: none;
+  background-position: center right;
+  background-repeat: no-repeat;
+  padding-right: 0;
+}
+
+.nav-item a[target="_blank"] {
+  background-image: none;
+}
+
+.nav-item a[target="_blank"]:after {
+  content: url(../img/external-link-ltr-icon-lightgrey.png);
+}

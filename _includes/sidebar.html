@@ -46,6 +46,14 @@
       </a>
     </li>
 
+    <!-- dagbarnvårdare -->
+    <li class="nav-item">
+      <a href="{{ 'https://xn--dagbarnvrdare-wfb.se/' | absolute_url }}" class="nav-link" target="_blank">
+        <i class="fa-fw fas fa-users ml-xl-3 mr-xl-3 unloaded"></i>
+        <span>{{ "dagbarnvårdare" | upcase }}</span>
+      </a>
+    </li>
+
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
