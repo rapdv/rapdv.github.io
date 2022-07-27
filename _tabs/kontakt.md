@@ -236,10 +236,10 @@ Johan Hallin, Erik Hammargren
 
   .iframe-container iframe {
     border: 0;
-    height: 100%;
-    left: 0;
     position: absolute;
     top: 0;
+    left: 0;
+    height: 100%;
     width: 100%;
   }
 
@@ -247,5 +247,11 @@ Johan Hallin, Erik Hammargren
     .flex-container {
       flex-direction: column;
     }
+
+    form {
+      display: inline-grid;
+      width: 100%;
+    }
+
   }
 </style>
