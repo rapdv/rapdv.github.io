@@ -188,7 +188,9 @@ Johan Hallin, Erik Hammargren
 
 ## Besök oss
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3369.0993464778862!2d17.612911060834243!3d59.861122380498436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcb8b838e7861%3A0xae6b4513a9088058!2sGeijersgatan%2034%2C%20752%2026%20Uppsala!5e0!3m2!1ssv!2sse!4v1657269884702!5m2!1ssv!2sse" width="798" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="iframe-container">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3369.0993464778862!2d17.612911060834243!3d59.861122380498436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcb8b838e7861%3A0xae6b4513a9088058!2sGeijersgatan%2034%2C%20752%2026%20Uppsala!5e0!3m2!1ssv!2sse!4v1657269884702!5m2!1ssv!2sse" width="798" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Skicka ett meddelande
 
@@ -197,14 +199,14 @@ Johan Hallin, Erik Hammargren
 
 {% include contact-form.html %}
 
-
 <style>
   .flex-container {
     display: flex;
+    flex-direction: row;
   }
   .flex-container .column_1 {
     flex-basis:66.66%;
-  margin-right: 20px;
+    margin-right: 20px;
   }
   .flex-container .column_2 {
     flex-basis:33.33%;
@@ -224,5 +226,26 @@ Johan Hallin, Erik Hammargren
   }
   button:hover {
     background: #ffd04d;
+  }
+
+  .iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9*/
+    position: relative;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  @media all and (max-width: 768px) {
+    .flex-container {
+      flex-direction: column;
+    }
   }
 </style>
