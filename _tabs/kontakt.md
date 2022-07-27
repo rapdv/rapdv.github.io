@@ -247,11 +247,5 @@ Johan Hallin, Erik Hammargren
     .flex-container {
       flex-direction: column;
     }
-
-    form {
-      display: inline-grid;
-      width: 100%;
-    }
-
   }
 </style>
